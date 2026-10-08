@@ -7,3 +7,4 @@ __pycache__/
 NVIDIA Corporation/
 *.log
 %SystemDrive%/
+dist/
